@@ -1,19 +1,29 @@
 # Perceived Support and Social Centrality in University Social Networks 
 _SNA.2025.Project BY Saran, Lauren, Lane, Molly, and Ellie_
 
-## Introduction
+## INTRODUCTION
 - This project explores how social connections shape students’ experiences within a university network.
 
 - Using data from the NetHealth study, we examine how different types of relationships, levels of perceived support, and shared identities — like religion — influence students’ positions and patterns in the broader social structure.
 
 - Our analysis highlights how friendships and social identity help shape who students are connected to.
 
-**Research question**
-> How do social connections—particularly friendships, perceived support, and shared identity—shape students’ roles and behaviors within a university network?
+## Research question**
+### How do social connections—particularly friendships, perceived support, and shared identity—shape students’ roles and behaviors within a university network?
+<br/>
 
 
-## Hyphothesis 1
+## LINK TO HYPOTHESES
+**[HYPOTHESIS 1](#hypothesis-1)
 Relationships categorized as 'Friend' are associated with higher support ratings compared to 'Family' .<br/>
+[HYPOTHESIS 2](#hypothesis-2) Students who list more ‘Friend’ alter ids are more socially embedded in the network and have a higher centrality.
+[HYPOTHESIS 3](#hypothesis-3) Students are more likely to form social ties with peers who share their religious affiliation**
+
+
+
+
+## HYPOTHESIS 1
+> Relationships categorized as 'Friend' are associated with higher support ratings compared to 'Family' .<br/>
 
 ### Data Structure
 **Data Types:**
@@ -45,8 +55,8 @@ These were selected for direct comparison in hypothesis testing<br/><br/>
 > - Friends offer more support for “hanging out.”
 > - Family members offer more support in financial, comfort, and advice categories
 
-## Hyphothesis 2
-Students who list more ‘Friend’ alter ids are more socially embedded in the network and have a higher centrality.
+## HYPOTHESIS 2
+> Students who list more ‘Friend’ alter ids are more socially embedded in the network and have a higher centrality.
 <img width="321" alt="Screenshot 2568-05-01 at 11 10 48" src="https://github.com/user-attachments/assets/95cd0470-136a-43ec-bb79-58079483e3c7" /> <img width="324" alt="Screenshot 2568-05-01 at 11 10 58" src="https://github.com/user-attachments/assets/d1964ec1-88e7-4d74-b896-012796273ea6" />
 
 Each node represents a student
@@ -74,13 +84,13 @@ This further  supports our second hypothesis.
 
 
 
-## Hyphothesis 3
-Students are more likely to form social ties with peers who share their religious affiliation.
+## HYPOTHESIS 3
+> Students are more likely to form social ties with peers who share their religious affiliation.
 
 <img width="374" alt="Screenshot 2568-05-01 at 11 12 46" src="https://github.com/user-attachments/assets/a2224ca3-4940-4bb6-8b41-1265c8da69f6" />
 
-Each node represents a student
-Each edge represents a social connection
+Each **node** represents a **student**
+Each **edge** represents a **social connection**
 
 Node size = Degree centrality
 Larger nodes have more direct connections
