@@ -14,10 +14,10 @@ _SNA.2025.Project BY Saran, Lauren, Lane, Molly, and Ellie_
 
 
 ## LINK TO HYPOTHESES
-**[HYPOTHESIS 1](#hypothesis-1)
+**1. [HYPOTHESIS 1](#hypothesis-1)
 Relationships categorized as 'Friend' are associated with higher support ratings compared to 'Family' .<br/>
-[HYPOTHESIS 2](#hypothesis-2) Students who list more ‘Friend’ alter ids are more socially embedded in the network and have a higher centrality.
-[HYPOTHESIS 3](#hypothesis-3) Students are more likely to form social ties with peers who share their religious affiliation**
+2. [HYPOTHESIS 2](#hypothesis-2) Students who list more ‘Friend’ alter ids are more socially embedded in the network and have a higher centrality.<br/>
+3. [HYPOTHESIS 3](#hypothesis-3) Students are more likely to form social ties with peers who share their religious affiliation**
 
 
 
