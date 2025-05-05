@@ -83,13 +83,20 @@ There are **more within-religion** ties and **fewer cross-religion** ties than e
 """)
 
 st.image("religion_support_3.png", caption="Edge Mixing Matrix by Religion")
-st.image("religion_support_4.png", caption="Expected Matrix under Random Mixing")
 st.markdown("""
 🔍 **Interpretation**:
 - Most edges are Catholic–Catholic (2276), showing diagonal dominance.
 - Protestant–Protestant connections are very few.
 - Cross-religion ties are present but less common than expected.
+"")
 
+st.image("religion_support_4.png", caption="Expected Matrix under Random Mixing")
+st.markdown("""
+🔍 **Interpretation**:
+- If religion didn't matter, you'd expect more Protestant–Protestant ties (121), but only 51 were observed.
+- You’d expect fewer same-religion Catholic ties (2346 expected vs 2276 observed), but it's still very close — meaning Catholics mostly stick together.
+"")
+st.markdown("""
 📌 **Conclusion**:  
 These findings consistently support **religious homophily** — the tendency to connect with peers of the same religion.
 """)
