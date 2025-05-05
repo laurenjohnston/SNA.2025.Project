@@ -37,14 +37,20 @@ st.write("""
 """)
 st.image("hypothesis1_graph1.png")
 st.image("hypothesis1_graph2.png")
+st.markdown("""
+ **Context**:
+- suppfin: Financial Support
+- suppcomf: Emotional/Comfort Support
+- supphang: Social/Hangout Support
+- suppadv: Advice Support
+""")
+
 st.image("t_test_results.png")
 st.markdown("""
 ✅ **Findings**:
 - Friends offer more support for “hanging out.”
 - Family offers more support in financial, comfort, and advice categories.
 """)
-
-# --- Hypothesis 2 Removed ---
 
 # --- Hypothesis 3 ---
 st.subheader("Hypothesis 2: Religious Affiliation and Social Ties")
