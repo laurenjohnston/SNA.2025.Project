@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # --- Banner Image ---
-st.image("banner.webp", use_column_width=True)  # Replace with your banner filename
+st.image("banner.webp", use_container_width=True)
 
 # --- Title and Authors ---
 st.title("Perceived Support and Social Centrality in University Social Networks")
