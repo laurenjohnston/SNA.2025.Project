@@ -96,6 +96,8 @@ st.markdown("""
 - If religion didn't matter, you'd expect more Protestant–Protestant ties (121), but only 51 were observed.
 - You’d expect fewer same-religion Catholic ties (2346 expected vs 2276 observed), but it's still very close — meaning Catholics mostly stick together.
 """)
+
+
 st.markdown("""
 📌 **Conclusion**:  
 These findings consistently support **religious homophily** — the tendency to connect with peers of the same religion.
