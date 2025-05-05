@@ -88,7 +88,7 @@ st.markdown("""
 - Most edges are Catholic–Catholic (2276), showing diagonal dominance.
 - Protestant–Protestant connections are very few.
 - Cross-religion ties are present but less common than expected.
-"")
+""")
 
 st.image("religion_support_4.png", caption="Expected Matrix under Random Mixing")
 st.markdown("""
