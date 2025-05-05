@@ -30,7 +30,7 @@ st.markdown("""
 """)
 
 # --- Hypothesis 1 ---
-st.subheader("Hypothesis 1: Friend vs Family Support")
+st.subheader("Hypothesis 1: Relationships categorized as 'Friend' are associated with higher support ratings compared to 'Family' ")
 st.write("""
 - Categorical Variable: `reltypecat` (Friend, Family)
 - Support Variables: `suppfin`, `suppcomf`, `supphang`, `suppadv` (0/1)
@@ -53,11 +53,7 @@ st.markdown("""
 """)
 
 # --- Hypothesis 3 ---
-st.subheader("Hypothesis 2: Religious Affiliation and Social Ties")
-st.markdown("""
-**Our Hypothesis**
-- Students who report more friendship ties tend to exhibit higher degree centrality, suggesting that friendships play a key role in shaping students’ positions within the social network.
-"")
+st.subheader("Hypothesis 2: Students who report more friendship ties tend to exhibit higher degree centrality, suggesting that friendships play a key role in shaping students’ positions within the social network.")
 
 st.image("religion_support_1.png", caption="Same-religion edge proportion")
 st.markdown("""
