@@ -9,12 +9,29 @@ st.title("Perceived Support and Social Centrality in University Social Networks"
 st.subheader("SNA.2025.Project by Saran, Lauren, Lane, Molly, and Ellie")
 
 # --- Introduction ---
+# --- Introduction ---
 st.header("Introduction")
 st.write("""
 This project explores how social connections shape students’ experiences within a university network.
 
 Using data from the NetHealth study, we examine how different types of relationships, levels of perceived support, and shared identities — like religion — influence students’ positions and patterns in the broader social structure.
 """)
+
+# --- Dataset Information ---
+st.header("About the Dataset")
+st.markdown("""
+**Source**: *NetHealth Study* – University of Notre Dame (2015)  
+**Participants**: ~700 first-year college students  
+**Data Collection**: Self-report surveys every 3–4 months
+
+**Data Includes**:
+- **Ego networks**: Students reported their top 5 social connections.
+- **Each row** = one social connection between a student (*ego*) and someone they interact with (*alter*).
+- **Relationship types**: Friend, sibling, roommate, etc.
+- **Support measures**: Emotional, financial, social advice.
+- **Shared activities** and **perceived similarity**.
+- **Demographic info** for each alter: age, gender, race, etc.
+""")d
 
 # --- Research Question ---
 st.header("Research Question")
