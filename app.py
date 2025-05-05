@@ -31,7 +31,7 @@ st.markdown("""
 - **Support measures**: Emotional, financial, social advice.
 - **Shared activities** and **perceived similarity**.
 - **Demographic info** for each alter: age, gender, race, etc.
-""")d
+""")
 
 # --- Research Question ---
 st.header("Research Question")
